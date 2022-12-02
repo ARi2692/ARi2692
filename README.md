@@ -1,5 +1,3 @@
-![logo](https://github.com/ARi2692/ARi2692/blob/main/blockchain-img.gif)
-
 <h1 align="center">Hi 👋, I'm Arundhati Gunupuru</h1>
 <h3 align="center">A passionate Blockchain developer from India, I have good experience with Blockchain, Bitcoin, Ethereum, Yield Farming, Swap, Smart Contract, and Exchange site.</h3>
 
