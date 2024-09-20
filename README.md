@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **DEX platforms**
+- 🔭 I’m currently working on **Decentralized Applications**
 
-- 🌱 I’m currently learning **NFT Marketplace and Metaverse**
+- 🌱 I worked on **NFT Marketplace, DEX platforms and Metaverse**
 
 - 👯 I’m looking to collaborate on **projects related to blockchain**
 
