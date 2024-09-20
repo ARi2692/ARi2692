@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arundhati Gunupuru</h1>
-<h3 align="center">A passionate Blockchain developer from India, I have good experience with Blockchain, Bitcoin, Ethereum, Yield Farming, Swap, Smart Contract, and Exchange site.</h3>
+<h3 align="center">A passionate Full stack Blockchain developer from India, I have good experience with Blockchain, Bitcoin, Ethereum, Yield Farming, Swap, Smart Contract, and Exchange site.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
