@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ARi2692](https://github.com/ARi2692)
 
-- 💬 Ask me about **DEX, , Dynamic NFTs, Ethereum, Solidity, React**
+- 💬 Ask me about **DEX, Dynamic NFTs, Ethereum, Solidity, React**
 
 - 📫 How to reach me **github, linkedIn and twitter**
 
